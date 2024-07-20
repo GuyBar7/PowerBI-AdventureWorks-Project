@@ -1,7 +1,7 @@
 # AdventureWorks Power BI Project
 
 ## Overview
-This repository contains a comprehensive Power BI project based on the AdventureWorks database. The project includes various reports and dashboards designed to provide insights into sales performance, customer demographics, and product analysis. The goal of this project is to demonstrate the power of data visualization in making informed business decisions. 
+This repository contains a comprehensive Power BI project based on the AdventureWorks database. The project includes various reports and dashboards designed to provide insights into sales performance, customer demographics, and product analysis. The goal of this project is to demonstrate the power of data visualization in making informed business decisions.
 
 The AdventureWorks database is a fictitious company that manufactures and sells bicycles and cycling accessories. The dataset encompasses various aspects of the business, including sales orders, customer information, product details, and more. By analyzing this data, we can uncover trends, identify key performance indicators (KPIs), and gain valuable insights into business operations.
 
@@ -25,44 +25,36 @@ By leveraging the capabilities of Power BI, this project showcases how data can 
 - `docs/`: Contains additional documentation for the project.
 - `images/`: Contains screenshots of the reports and dashboards.
 
-## Screenshots
+<h2 style="color:blue;">Screenshots</h2>
 
-### Executive Dashboard
-This executive dashboard provides high-level KPIs, including total revenue, profit, orders, and return rate.
+<h3 style="color:green;">Executive Dashboard</h3>
+<p>This executive dashboard provides high-level KPIs, including total revenue, profit, orders, and return rate.</p>
+<img src="images/ExecDashboard.png" alt="Executive Dashboard" />
 
-![Executive Dashboard](images/ExecDashboard.png)
+<h3 style="color:green;">Map Visualization</h3>
+<p>This map visual shows the geographic distribution of sales across different regions.</p>
+<img src="images/Map.png" alt="Map Visualization" />
 
-### Map Visualization
-This map visual shows the geographic distribution of sales across different regions.
+<h3 style="color:green;">Product Performance Chart</h3>
+<p>This chart visualizes the performance of different products, highlighting bestsellers and underperforming items to help manage inventory and marketing strategies.</p>
+<img src="images/ProductDetail.png" alt="Product Performance Chart" />
 
-![Map Visualization](images/Map.png)
+<h3 style="color:green;">Customer Demographics Dashboard</h3>
+<p>This dashboard offers insights into customer demographics, showing age distribution, gender breakdown, and geographic locations of customers.</p>
+<img src="images/CustomerDetail.png" alt="Customer Demographics Dashboard" />
 
-### Product Performance Chart
-This chart visualizes the performance of different products, highlighting bestsellers and underperforming items to help manage inventory and marketing strategies.
+<h3 style="color:green;">Q&A</h3>
+<p>This visual allows users to ask natural language questions about the data and receive answers in the form of charts, graphs, or tables. It provides a dynamic way to interact with the dataset, helping users to explore and gain insights without needing to create complex queries.</p>
+<img src="images/Q&A.png" alt="Q&A" />
 
-![Product Performance Chart](images/ProductDetail.png)
+<h3 style="color:green;">Decomposition Tree</h3>
+<p>This visualization shows a decomposition tree that breaks down total orders by category, subcategory, and product.</p>
+<img src="images/DecompositionTree.png" alt="Decomposition Tree" />
 
-### Customer Demographics Dashboard
-This dashboard offers insights into customer demographics, showing age distribution, gender breakdown, and geographic locations of customers.
+<h3 style="color:green;">Key Influencers</h3>
+<p>This report uses the key influencers visual to show factors that influence specific outcomes, such as customer likelihood to buy.</p>
+<img src="images/KeyInfluencers.png" alt="Key Influencers" />
 
-![Customer Demographics Dashboard](images/CustomerDetail.png)
-
-### Q&A
-This visual allows users to ask natural language questions about the data and receive answers in the form of charts, graphs, or tables. It provides a dynamic way to interact with the dataset, helping users to explore and gain insights without needing to create complex queries.
-
-![Sales Dashboard](images/Q&A.png)
-
-### Decomposition Tree
-This visualization shows a decomposition tree that breaks down total orders by category, subcategory, and product.
-
-![Decomposition Tree](images/DecompositionTree.png)
-
-### Key Influencers
-This report uses the key influencers visual to show factors that influence specific outcomes, such as customer likelihood to buy.
-
-![Key Influencers](images/KeyInfluencers.png)
-
-### Data Model
-This image shows the data model used in the Power BI project, illustrating the relationships between different tables and the structure of the data.
-
-![Data Model](images/ModelView.png)
+<h3 style="color:green;">Data Model</h3>
+<p>This image shows the data model used in the Power BI project, illustrating the relationships between different tables and the structure of the data.</p>
+<img src="images/ModelView.png" alt="Data Model" />
