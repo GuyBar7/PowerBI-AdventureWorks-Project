@@ -1,3 +1,6 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power%20bi&logoColor=white)
+
+
 # AdventureWorks Power BI Project
 
 ## Overview
