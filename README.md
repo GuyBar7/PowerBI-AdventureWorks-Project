@@ -29,32 +29,40 @@ By leveraging the capabilities of Power BI, this project showcases how data can 
 
 ### Executive Dashboard
 This executive dashboard provides high-level KPIs, including total revenue, profit, orders, and return rate.
+
 ![Executive Dashboard](images/ExecDashboard.png)
 
 ### Map Visualization
 This map visual shows the geographic distribution of sales across different regions.
+
 ![Map Visualization](images/Map.png)
 
 ### Product Performance Chart
 This chart visualizes the performance of different products, highlighting bestsellers and underperforming items to help manage inventory and marketing strategies.
+
 ![Product Performance Chart](images/ProductDetail.png)
 
 ### Customer Demographics Dashboard
 This dashboard offers insights into customer demographics, showing age distribution, gender breakdown, and geographic locations of customers.
+
 ![Customer Demographics Dashboard](images/CustomerDetail.png)
 
 ### Sales Dashboard
-This dashboard provides an overview of sales performance, including total revenue, sales trends over time, and a breakdown by region and product category.
+This visual allows users to ask natural language questions about the data and receive answers in the form of charts, graphs, or tables. It provides a dynamic way to interact with the dataset, helping users to explore and gain insights without needing to create complex queries.
+
 ![Sales Dashboard](images/Q&A.png)
 
 ### Decomposition Tree
 This visualization shows a decomposition tree that breaks down total orders by category, subcategory, and product.
+
 ![Decomposition Tree](images/DecompositionTree.png)
 
 ### Key Influencers
 This report uses the key influencers visual to show factors that influence specific outcomes, such as customer likelihood to buy.
+
 ![Key Influencers](images/KeyInfluencers.png)
 
 ### Data Model
 This image shows the data model used in the Power BI project, illustrating the relationships between different tables and the structure of the data.
+
 ![Data Model](images/ModelView.png)
