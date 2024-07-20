@@ -47,7 +47,7 @@ This dashboard offers insights into customer demographics, showing age distribut
 
 ![Customer Demographics Dashboard](images/CustomerDetail.png)
 
-### Sales Dashboard
+### Q&A
 This visual allows users to ask natural language questions about the data and receive answers in the form of charts, graphs, or tables. It provides a dynamic way to interact with the dataset, helping users to explore and gain insights without needing to create complex queries.
 
 ![Sales Dashboard](images/Q&A.png)
